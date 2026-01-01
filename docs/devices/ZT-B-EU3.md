@@ -23,7 +23,7 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+Pairing: Long press button 1 (leftmost) until all three LEDs blink.
 
 <!-- Notes END: Do not edit below this line -->
 
